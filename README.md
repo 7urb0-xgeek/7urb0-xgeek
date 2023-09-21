@@ -1,4 +1,4 @@
-![Header](./.github-header-image.png)
+![Header](https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm 7urb0-xgeek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="right”> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt=”7urb0-xgeek"/> </p>
