@@ -1,7 +1,7 @@
 ![logo](https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm 7urb0-xgeek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="(https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/coder.gif)" />
+<img align="right" alt="coding" width="400" src="[https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/coder.gif]" />
 # 💫 About Me:<br>
 🔭I’m currently learning Html, Python, Javascript<br>💬 Ask me about<br>⚡ Fun fact
 
