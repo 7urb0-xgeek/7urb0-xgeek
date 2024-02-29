@@ -6,7 +6,6 @@
 # 💫 About Me:<br>
 🔭I’m currently learning Html, Python, Javascript<br>💬 Ask me about<br>⚡ Fun fact
 
-<img align="centre" alt="coding" width="400" src="https://telegra.ph/file/8e822c7b016ebfb685574.mp4" />
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=plastic&logo=glitch&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
