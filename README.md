@@ -1,7 +1,7 @@
 ![logo](https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/github-header-image%20(3).png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&pause=1000&center=true&random=false&width=435&lines=Hi+%2CI'm+7urb0-xgeek.+;Coding+is+My+Hobby%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB.;Jai+Shree+Ram...%F0%9F%8F%B9" alt="Typing SVG" /> 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="centre"  src="https://telegra.ph/file/8e822c7b016ebfb685574.mp4" /> <br>
+<a href="https://ibb.co/Mh86rv4"><img src="https://i.ibb.co/9vwt6DL/mikhail-gorbunov-ui-1.gif" alt="mikhail-gorbunov-ui-1" border="0"></a> <br>
 <img align="right" alt="coding" width="400" src="https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/coder.gif" />
 # 💫 About Me:<br>
 🔭I’m currently learning Html, Python, Javascript<br>💬 Ask me about<br>⚡ Fun fact
