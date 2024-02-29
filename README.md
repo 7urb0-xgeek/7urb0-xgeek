@@ -1,5 +1,5 @@
 ![logo](https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/coder2.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira Code&size=30&pause=1000&center=true&random=false&width=435&lines=Hi+%2CI'm+7urb0-xgeek.+;Coding+is+My+Hobby%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB.;Jai+Shree+Ram...%F0%9F%8F%B9" alt="Typing SVG" /> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=KodeMono&size=20&pause=1000&center=true&random=false&width=435&lines=Hi+%2CI'm+7urb0-xgeek.+;Coding+is+My+Hobby%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB.;Jai+Shree+Ram...%F0%9F%8F%B9" alt="Typing SVG" /> 
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src=”https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/coder.gif” /> 
 # 💫 About Me:<br>
