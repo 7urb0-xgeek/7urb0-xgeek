@@ -1,5 +1,5 @@
 ![logo](https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/github-header-image%20(3).png)
-<h1 align="center">Hi 👋, I'm 7urb0-xgeek</h1>
+<a align="center” href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&pause=1000&center=true&random=false&width=435&lines=Hi+%2CI'm+7urb0-xgeek.+;Coding+is+My+Hobby%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB.;Jai+Shree+Ram...%F0%9F%8F%B9" alt="Typing SVG" /> </a>
 <h3 align="center">A passionate frontend developer from India</h3>
 <a align="center” href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&pause=1000&center=true&random=false&width=435&lines=Hi+%2CI'm+7urb0-xgeek.+;Coding+is+My+Hobby%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB.;Jai+Shree+Ram...%F0%9F%8F%B9" alt="Typing SVG" /></a>
 <img align="right" alt="coding" width="400" src="https://github.com/7urb0-xgeek/7urb0-xgeek/blob/main/coder.gif" />
